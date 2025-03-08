@@ -1,0 +1,20 @@
+(script continuous reiko_needs_a_hotkey
+    (if (player_action_test_dpad_up)
+        (begin
+            (chud_post_message_hack "Saving...")
+            (game_save_no_timeout)
+            (player_disable_movement true)
+            (sleep (* 30.0 60.0 0.02))
+            (player_disable_movement false)
+            (player_action_test_reset)
+        )
+    )
+    (if (player_action_test_dpad_down) 
+        (begin
+            (chud_post_message_hack "Reverting...")
+            (sleep 5)
+            (game_revert)
+            (player_action_test_reset)
+        )
+    )
+)
