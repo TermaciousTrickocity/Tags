@@ -1,0 +1,33 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "cone_render": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_precise_position": "1",
+            "bungie_face_region": "default",
+            "bungie_object_ID": "ec432c4c-42a2-8b9d-2f4c-1e70d95eb162"
+        }
+    },
+    "material_properties": {
+        "street_cone.002": {
+            "bungie_shader_path": "objects\\gear\\human\\industrial\\shaders\\street_cone",
+            "bungie_shader_type": "shader"
+        }
+    }
+}

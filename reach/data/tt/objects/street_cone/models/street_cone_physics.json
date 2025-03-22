@@ -1,0 +1,32 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {},
+    "meshes_properties": {
+        "cone_physics": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_mesh_primitive_type": "_connected_geometry_primitive_type_none",
+            "bungie_face_region": "default",
+            "bungie_object_ID": "dc61c313-a461-9e25-6e28-c5bcd11131fd"
+        }
+    },
+    "material_properties": {
+        "+invisible": {
+            "bungie_shader_path": "objects\\levels\\shared\\shaders\\invisible",
+            "bungie_shader_type": "shader"
+        }
+    }
+}

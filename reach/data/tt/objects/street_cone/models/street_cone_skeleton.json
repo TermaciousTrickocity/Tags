@@ -1,0 +1,19 @@
+{
+    "string_table": {},
+    "nodes_properties": {
+        "street_cone_world": {
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771",
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "90c8c221-f5ba-ad0e-ac93-01c44ce67d25"
+        },
+        "implied_root_node": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {},
+    "material_properties": {}
+}
