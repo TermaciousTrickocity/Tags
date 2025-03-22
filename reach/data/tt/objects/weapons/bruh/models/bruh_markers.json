@@ -1,0 +1,205 @@
+{
+    "string_table": {},
+    "nodes_properties": {
+        "bruh_world": {
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771",
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "57295126-757c-13eb-5f5e-e2e7748ad1fb"
+        },
+        "b_gun": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "b_hatch": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "732036788",
+            "bungie_frame_ID2": "-1922552000",
+            "bungie_object_animates": "1"
+        },
+        "b_drum": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "759958540",
+            "bungie_frame_ID2": "1883087884",
+            "bungie_object_animates": "1"
+        },
+        "b_drum_flap03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "859502932",
+            "bungie_frame_ID2": "1403853042",
+            "bungie_object_animates": "1"
+        },
+        "b_drum_flap02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "851103731",
+            "bungie_frame_ID2": "839128523",
+            "bungie_object_animates": "1"
+        },
+        "b_drum_flap05": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "830228235",
+            "bungie_frame_ID2": "-547053236",
+            "bungie_object_animates": "1"
+        },
+        "b_drum_flap06": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "817769790",
+            "bungie_frame_ID2": "302828515",
+            "bungie_object_animates": "1"
+        },
+        "b_drum_flap01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "789230163",
+            "bungie_frame_ID2": "-51110478",
+            "bungie_object_animates": "1"
+        },
+        "b_drum_flap04": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "784914534",
+            "bungie_frame_ID2": "832337689",
+            "bungie_object_animates": "1"
+        },
+        "b_wing_left": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "711169157",
+            "bungie_frame_ID2": "1073759639",
+            "bungie_object_animates": "1"
+        },
+        "b_wing_right": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        },
+        "fx_reload_gas": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "fx_reload_gas",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "68b51a64-9475-79a2-19ca-a4ba09bfe4ca"
+        },
+        "right_hand_brute": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "right_hand_brute",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "5c83f431-0542-4987-2741-44fa3254385e"
+        },
+        "right_hand_marine": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "right_hand_marine",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "57ca7e6f-0c6b-ea7b-f151-0b86d7a0f32e"
+        },
+        "weapon_stow_anchor": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "weapon_stow_anchor",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "6e609915-1eb7-21c8-a4c3-3c278bb5d402"
+        },
+        "vent": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "vent",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "c33f3a0a-41fa-18eb-3f6b-7b64e9a90454"
+        },
+        "vent.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "vent",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "04df9f71-40d9-5f02-d980-c3978d1df59a"
+        },
+        "left_hand_marine": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "left_hand_marine",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "48931b46-0eb6-e2f7-9063-2b814630c095"
+        },
+        "left_hand_spartan_fp": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "left_hand_spartan_fp",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "6f56a899-4515-ed88-0d50-ace1bc9d69c6"
+        },
+        "right_hand_elite": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "right_hand_elite",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "50e6745c-a71d-ef69-9bcb-68b9f5e01ed5"
+        },
+        "primary_trigger": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "primary_trigger",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "1895639a-029b-7856-0caa-f15e6d6d713d"
+        },
+        "left_hand_brute": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "left_hand_brute",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "e0cac128-0a3b-aa02-6404-31c677b737f3"
+        },
+        "right_hand_spartan": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "right_hand_spartan",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "b07d673a-ea40-ef5d-8d31-73291e790c73"
+        },
+        "vehicle_root": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "vehicle_root",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "0fbbe89c-8140-ac54-6837-61013e6fe7b6"
+        },
+        "left_hand_elite_fp": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "left_hand_elite_fp",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "f524e6a0-509a-ae45-7f91-b5d3eee05347"
+        },
+        "left_hand": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "left_hand",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "0e62994a-49ac-551a-5642-f8a4659c09f8"
+        },
+        "right_hand": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "right_hand",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "3aa00447-7c24-c560-d475-9f8cbf14b3c1"
+        },
+        "left_hand_spartan": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "left_hand_spartan",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "b2e93bf4-2947-0928-4bec-f9abb89f3a06"
+        },
+        "left_hand_elite": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "left_hand_elite",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "f0d10d40-b8ce-339c-f072-3b350524ca60"
+        }
+    },
+    "meshes_properties": {},
+    "material_properties": {}
+}

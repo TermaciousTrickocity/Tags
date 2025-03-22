@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Metadata>
+  <Header>
+    <MainRev>0</MainRev>
+    <PointRev>6</PointRev>
+    <Description>Forged in Foundry</Description>
+    <Created>2025-03-18 14:31:31</Created>
+    <By>sean_</By>
+    <SourceBlend>tt\objects\weapons\bruh_canon\bruh\bruh.blend</SourceBlend>
+    <DirectoryType>TAE.Shared.NWOAssetDirectory</DirectoryType>
+    <Schema>1</Schema>
+  </Header>
+  <Asset Name="bruh" Type="model">
+    <OutputTagCollection>
+      <OutputTag Type="model">tt\objects\weapons\bruh_canon\bruh\bruh</OutputTag>
+      <OutputTag Type="scenery">tt\objects\weapons\bruh_canon\bruh\bruh</OutputTag>
+      <OutputTag Type="weapon">tt\objects\weapons\bruh_canon\bruh\bruh</OutputTag>
+    </OutputTagCollection>
+  </Asset>
+  <Folders>
+    <Reference>\reference</Reference>
+    <Temp>\temp</Temp>
+    <SourceModels>\models\work</SourceModels>
+    <GameModels>\models</GameModels>
+    <GamePhysicsModels>\models</GamePhysicsModels>
+    <GameCollisionModels>\models</GameCollisionModels>
+    <ExportModels>\export\models</ExportModels>
+    <ExportPhysicsModels>\export\models</ExportPhysicsModels>
+    <ExportCollisionModels>\export\models</ExportCollisionModels>
+    <SourceAnimations>\animations\work</SourceAnimations>
+    <AnimationsRigs>\animations\rigs</AnimationsRigs>
+    <GameAnimations>\animations</GameAnimations>
+    <ExportAnimations>\export\animations</ExportAnimations>
+    <SourceBitmaps>\bitmaps</SourceBitmaps>
+    <GameBitmaps>\bitmaps</GameBitmaps>
+    <CinemaSource>\cinematics</CinemaSource>
+    <CinemaExport>\export\cinematics</CinemaExport>
+    <ExportBSPs>\models</ExportBSPs>
+    <SourceBSPs>\models</SourceBSPs>
+    <RigFlags>\animations\rigs\flags</RigFlags>
+    <RigPoses>\animations\rigs\poses</RigPoses>
+    <RigRenders>\animations\rigs\render</RigRenders>
+    <Scripts>\scripts</Scripts>
+    <FacePoses>\animations\rigs\poses\face_poses</FacePoses>
+    <CinematicOutsource>\outsource</CinematicOutsource>
+  </Folders>
+  <FaceCollections>
+    <FaceCollection Name="regions" StringTable="connected_geometry_regions_table" Description="Model regions">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+    <FaceCollection Name="global materials override" StringTable="connected_geometry_global_material_table" Description="Global material overrides">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+        <FaceCollectionEntry Index="1" Name="hard_metal_thick_cov" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+  </FaceCollections>
+  <Contents>
+    <Content Name="bruh" Type="model">
+      <ContentObject Name="" Type="render_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>tt\objects\weapons\bruh_canon\bruh\bruh.blend</InputFile>
+          <IntermediateFile>tt\objects\weapons\bruh_canon\bruh\export\models\bruh_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="render_model">tt\objects\weapons\bruh_canon\bruh\bruh</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="physics_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>tt\objects\weapons\bruh_canon\bruh\bruh.blend</InputFile>
+          <IntermediateFile>tt\objects\weapons\bruh_canon\bruh\export\models\bruh_physics.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="physics_model">tt\objects\weapons\bruh_canon\bruh\bruh</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="collision_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>tt\objects\weapons\bruh_canon\bruh\bruh.blend</InputFile>
+          <IntermediateFile>tt\objects\weapons\bruh_canon\bruh\export\models\bruh_collision.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="collision_model">tt\objects\weapons\bruh_canon\bruh\bruh</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="skeleton">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>tt\objects\weapons\bruh_canon\bruh\bruh.blend</InputFile>
+          <IntermediateFile>tt\objects\weapons\bruh_canon\bruh\export\models\bruh_skeleton.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+      <ContentObject Name="" Type="markers">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>tt\objects\weapons\bruh_canon\bruh\bruh.blend</InputFile>
+          <IntermediateFile>tt\objects\weapons\bruh_canon\bruh\export\models\bruh_markers.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+    </Content>
+  </Contents>
+</Metadata>
