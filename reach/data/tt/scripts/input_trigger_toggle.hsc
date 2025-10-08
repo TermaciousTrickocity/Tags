@@ -1,6 +1,6 @@
 (global boolean input_toggle true)
 
-(script continuous Zealot_is_holding_my_family_hostage
+(script continuous zealot_is_holding_my_family_hostage
     (if (and (player_action_test_dpad_up) (= input_toggle true))
         (begin
             (chud_post_message_hack "Saving...")
